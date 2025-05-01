@@ -3,9 +3,10 @@ A RL project leveraging Monte Carlo and PPO algorithms to enable an agent to suc
 [Fill out more description about what this project is, what pokemon is a little, how the battles work, etc)
 
 ## Instructions for Running Model/Agent
-The first step to run this program is to setup a local Pokemon Showdown server. To do so, follow below:
+The first step to run this program is to setup a local Pokemon Showdown server. If using the one attached in the repo, skip to step end of step 2 and run ```node pokemon-showdown start --no-security```. To do so, follow below:
 
 1.) Install the latest version of [Node.js](https://nodejs.org/en/)
+
 2.) Clone the pokemon-showdown repository and follow the setup instructions below:
 ```
 git clone https://github.com/smogon/pokemon-showdown.git
@@ -14,3 +15,5 @@ npm install
 cp config/config-example.js config/config.js
 node pokemon-showdown start --no-security
 ```
+
+3.) 
