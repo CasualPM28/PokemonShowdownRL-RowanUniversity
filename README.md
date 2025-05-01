@@ -17,3 +17,7 @@ node pokemon-showdown start --no-security
 ```
 
 3.) 
+
+## Bot Information
+PPOBot, pass = botpassword1
+MonteCarloBot, pass = botpassword2
