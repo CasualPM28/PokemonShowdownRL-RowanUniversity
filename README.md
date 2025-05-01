@@ -1,4 +1,4 @@
-# PokemonEmeraldRL
+# Pokemon Showdown Reinforcement Learning, PPO vs. Monte Carlo
 A RL project leveraging Monte Carlo and PPO algorithms to enable an agent to successfully play Pokemon Emerald with the end goal of defeating the first gym leader.
 [Fill out more description about what this project is, what pokemon is a little, how the battles work, etc)
 
